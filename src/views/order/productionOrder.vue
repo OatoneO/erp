@@ -222,7 +222,7 @@
     >
         <div class="print-preview">
             <div id="printArea" class="print-main">
-                <div class="title-first">苏州易鑫精密塑胶有限公司</div>
+                <div class="title-first">E R P仓库管理系统</div>
                 <div class="title-second">内部生产指令单</div>
                 <el-row :gutter="20">
                     <el-col :span="12">生产部门：成型</el-col>
@@ -316,7 +316,7 @@ export default {
             printProductionOrderForm: [],
             print: {
                 id: "printArea",
-                popTitle: "苏州易鑫精密塑胶有限公司｜生产指令单", // 打印配置页上方的标题
+                popTitle: "E R P仓库管理系统 ｜生产指令单", // 打印配置页上方的标题
                 preview: false, // 是否启动预览模式，默认是false
                 clickMounted() {
                     // 点击print绑定按钮

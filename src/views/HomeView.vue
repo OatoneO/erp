@@ -13,7 +13,7 @@
                 >
                     <el-menu-item index="0"
                         ><span style="font-size: 25px"
-                            >易 鑫</span
+                            >ERP</span
                         ></el-menu-item
                     >
                     <div class="flex-grow" />
@@ -100,7 +100,7 @@
                             <router-view></router-view></div
                     ></el-main>
                     <el-footer height="40px" class="footer"
-                        >Copyright © 2023-present 汤宗朔, All rights
+                        >Copyright © 2024-present 汤宗朔,马文博 All rights
                         reserved.</el-footer
                     >
                 </el-container>

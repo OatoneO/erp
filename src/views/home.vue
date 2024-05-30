@@ -1,6 +1,6 @@
 <template>
     <div class="title">
-        👏 欢迎进入易鑫 ERP 系统
+        👏 欢迎进入 ERP 系统
     </div>
     <el-divider></el-divider>
     <div class="version">

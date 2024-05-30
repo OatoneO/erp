@@ -5,9 +5,9 @@
                 <div class="logo-all">
                     <span
                         style="font-size: 35px; font-weight: 900; color: black"
-                        >苏 州 易 鑫</span
+                        >E R P</span
                     ><br /><span style="font-weight: 300; color: black"
-                        >精密塑胶有限公司</span
+                        >仓库管理系统</span
                     >
                 </div>
             </div>
